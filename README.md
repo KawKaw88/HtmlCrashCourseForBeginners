@@ -1,6 +1,6 @@
 Adapted from:
 # HTML Crash Course For Absolute Beginners
-2017
+2017, Brad Traversy
 https://www.youtube.com/watch?v=UB1O30fR-EE
 
 Brad Traversy
